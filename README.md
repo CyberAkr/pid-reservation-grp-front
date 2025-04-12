@@ -48,16 +48,14 @@ Ce projet a été réalisé dans le cadre du cours Projet d'intégration de Dév
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/Betteranh/pid-reservation-groupe.git
+   git clone https://github.com/CyberAkr/pid-reservation-grp-front.git
 2. **Ouvrir le projet :**
-   Importez le projet dans IntelliJ IDEA.
+   Importez le projet dans IntelliJ IDEA, vs code...
 3. **Configurer la base de données :**
-   Modifiez le fichier application.properties (ou application.yml) pour définir les paramètres de connexion à votre instance MySQL.
+   Veuillez lancer le projet git clone https://github.com/Betteranh/pid-reservation-groupe.git back end lié
 4. **Lancer l'application :**
-   Via IntelliJ IDEA en exécutant la classe principale contenant la méthode main.
-   Ou via Maven avec la commande :
-   ```bash
-   mvn spring-boot:run
+    ```bash
+     npm run serve 
 5. **Accéder à l'application :**
    Ouvrez http://localhost:8081 dans votre navigateur.
    
