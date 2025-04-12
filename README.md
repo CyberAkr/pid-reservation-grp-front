@@ -40,9 +40,10 @@ Ce projet a été réalisé dans le cadre du cours Projet d'intégration de Dév
 
 ### Prérequis
 - JDK 11 ou supérieur
-- IntelliJ IDEA
-- Wampserver (pour MySQL)
+- IntelliJ IDEA / VS CODE
+- Wampserver (pour MySQL) mysql 9.1
 - Maven
+- Vue.js
 
 ### Instructions
 
